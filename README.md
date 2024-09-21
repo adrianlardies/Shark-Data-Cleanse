@@ -1,6 +1,6 @@
 # Shark Attack Analysis Project
 
-![Shark Attack Analysis](https://ibb.co/WH916T9)  
+![Shark Attack Analysis](https://i.ibb.co/7ScFX9c/shark-data-cleanse.png)  
 
 ## Introduction
 
